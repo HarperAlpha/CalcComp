@@ -1,0 +1,2 @@
+# CalcComp
+Calculator Competition project
